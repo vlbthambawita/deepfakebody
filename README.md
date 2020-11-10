@@ -1,12 +1,3 @@
 # deepfakebody
-This is the official repository for deepfakebody concept.
-
-IDEA in general
-================
-
-- deepfakebody
-  - signal
-  - image
-  - video
-  - mri
+Please access this content via: www.deepfakebody.org
   
