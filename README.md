@@ -4,10 +4,17 @@ This is the official repository for deepfakebody concept.
 Library flow
 =============
 - deepfakebody
-  - ECG
-    - generators
-  - GI
-    - generators
+  - generators
+    - signal
+      - ecg
+    - images
+      - gi
+    
+  - analysers
+    - signal
+      - ecg
+    - image
+      - gi
 
 IDEA in general
 ================
