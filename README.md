@@ -3,27 +3,9 @@ This is the official repository for deepfakebody concept.
 
 More details will be updated here: www.deepfakebody.org
 
-Library flow
-=============
-- deepfakebody
-  - generators
-    - signal
-      - ecg
-    - images
-      - gi
-    
-  - analysers
-    - signal
-      - ecg
-    - image
-      - gi
+## Do you want to joing with this project:
 
-IDEA in general
-================
+Please contact us:
 
-- deepfakebody
-  - signal
-  - image
-  - video
-  - mri
-  
+vajira@simula.no or
+michael@simula.no

@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="deepfakebody", # Replace with your own username
-    version="0.0.1",
+    name="deepfakebody", 
+    version="0.0.2",
     author="Vajira Thambawita",
     author_email="vlbthambawita@gmail.com",
     description="Unlimited medical data generators.",
