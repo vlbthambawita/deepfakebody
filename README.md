@@ -1,6 +1,8 @@
 # deepfakebody
 This is the official repository for deepfakebody concept.
 
+More details will be updated here: www.deepfakebody.org
+
 Library flow
 =============
 - deepfakebody
