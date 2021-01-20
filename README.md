@@ -3,7 +3,7 @@ This is the official repository for deepfakebody concept.
 
 More details will be updated here: www.deepfakebody.org
 
-## Do you want to joing with this project:
+## Do you want to join with this project:
 
 Please contact us:
 
