@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="deepfakebody", 
-    version="0.0.2",
+    version="1.0.0",
     author="Vajira Thambawita",
     author_email="vlbthambawita@gmail.com",
     description="Unlimited medical data generators.",
@@ -21,10 +21,8 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        'numpy',
-        'tqdm',
-        'torch',
-        'pandas',
+
+        'deepfake_gitract'
 
   ],
 )
